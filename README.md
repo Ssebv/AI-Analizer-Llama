@@ -4,6 +4,10 @@ Sistema de análisis inteligente de noticias construido con **LangChain + LangGr
 
 ![python interactive](img/Interactive.png)
 
+Con agentes especializados la IA convierte las noticias entregadas en insights claros, en tiempo real y sin trabajo manual - esto puede ser llevado a documentos tecnicos, soluciones o depende de area que se quiera integrar. Cada agente resuelve un paso (buscar, analizar, comparar segun lo programado) y el grafo los coordina, así el sistema escala y se amplía fácil. El proyecto demostró esto: indexó una vez los datos, respondió consultas complejas al instante y entregó información lista para decidir, mostrando el valor directo de adoptar esta arquitectura en la empresa.
+
+Capturas en IMG y en el CSV una prueba en entorno local.
+
 ---
 
 ## Tabla de contenido
