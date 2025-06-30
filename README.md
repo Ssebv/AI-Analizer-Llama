@@ -28,7 +28,6 @@ Capturas en IMG y en el CSV una prueba en entorno local.
 6. [Estructura del proyecto](#estructura-del-proyecto)
 7. [Variables de entorno](#variables-de-entorno)
 8. [Comandos útiles](#comandos-útiles)
-9. [Contribución](#contribución)
 
 ---
 
